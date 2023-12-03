@@ -33,5 +33,10 @@ Practice account for learning GIT
   k. commit the pull request.
   Hence branch with successfull pull request has been submitted.
 
-  
+# Git Blame
+  a. By using 'git blame [file name]' you get the you get details of changes till date.
+  b. You can also get specific data by filtering the change list 'git blame -L 3,8 [File name]' --(-L = list for blame change list , 3 and 8 in which get the details       
+      between 3 and 8 index number).
+  c. Fomat of deatils [ID][Authour Name][Date and Time][Index Number][Changes made].
+  d. 'git log -p [ID]' will give the indepth details of changes made.
   
