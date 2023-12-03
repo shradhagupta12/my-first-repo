@@ -40,3 +40,11 @@ Practice account for learning GIT
   c. Fomat of deatils [ID][Authour Name][Date and Time][Index Number][Changes made].
   d. 'git log -p [ID]' will give the indepth details of changes made.
   
+# Note : 
+  This output shows us the following:
+  Green was removed
+  Blue was added
+  Ivory was removed
+  Charcoal was added
+  Gray was removed
+  Purple was added
